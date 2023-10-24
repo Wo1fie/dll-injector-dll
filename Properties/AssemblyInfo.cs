@@ -8,9 +8,9 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyTitle("dll-injector-dll")]
 [assembly: AssemblyDescription("Simple C# Dll Injector remade in 2023.  Originally made in 2009.")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("Ryan Blanco")]
+[assembly: AssemblyCompany("Wo1fie")]
 [assembly: AssemblyProduct("dll-injector-dll")]
-[assembly: AssemblyCopyright("Copyright © Ryan Blanco 2023")]
+[assembly: AssemblyCopyright("Copyright © Wo1fie 2023")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
